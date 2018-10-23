@@ -1,5 +1,5 @@
 // Write your code in this file!
-const currentUser="GRACE HOPPER"
+const currentUser="Grace Hopper"
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-const upperCaseCurrentUser = currentUser.toUpperCas
+const upperCaseCurrentUser = currentUser.toUpperCase
